@@ -22,7 +22,7 @@
     "lint-staged": "4.3.0",
     "nsp": "2.8.1",
     "prettier": "1.9.2",
-    "standard-version": "4.3.0",
+    "standard-version": "4.4.0",
     "validate-commit-msg": "2.14.0",
     "yeoman-assert": "3.1.0",
     "yeoman-test": "1.7.0"
